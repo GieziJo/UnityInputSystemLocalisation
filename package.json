@@ -1,0 +1,13 @@
+{
+    "name": "ch.giezi.tools.inputsystemlocalisation",
+    "displayName": "Giezi's Input System Localisation",
+    "author": {
+        "name": "Jo Giezi",
+        "url": "https://github.com/GieziJo/UnityInputSystemLocalisation"
+    },
+    "version": "0.0.0",
+    "unity": "2021.3",
+    "description": "Localisation for Unity Input keys retrieved when calling `InputControlPath.ToHumanReadableString`.",
+    "keywords": ["Localisation", "Inputs"],
+    "category": "Localisation"
+}

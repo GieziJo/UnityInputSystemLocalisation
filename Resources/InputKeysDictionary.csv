@@ -1,0 +1,62 @@
+En,Fr,De
+# Playstation
+Cross,Croix,Kreuz
+Triangle,Triangle,Dreieck
+Square,Carré,Viereck
+Circle,Cercle,Kreis
+# Keyboard
+Any Key,N'importe quelle touche,Irgend eine Taste
+Escape,Escape,Escape
+Space,Espace,Leehrtaste
+Enter,Entrée,Eingabe
+Tab,Tab,Tab
+Up Arrow,Flèche Haut,Pfeil Oben
+Down Arrow,Flèche Bas,Pfeil Unten
+Left Arrow,Flèche Gauche,Pfeil Links
+Right Arrow,Flèche Droit,Pfeil Rechts
+Left Shift,Majuscule Gauche,Umschalt Links
+Right Shift,Majuscule Droite,Umschalt Rechts
+Shift,Majuscule,Umschalt 
+Left Alt,Alt Gauche,Alt Links
+Right Alt,Alt Droite,Alt Rechts
+Left Control,Commande Gauche,Kontroll Links
+Right Control,Commande Droite,Kontroll Rechts
+Control,Commande,Kontroll
+Left System,Système Gauche,System Links
+Right System,Système Droite,System Rechts
+Context Menu,Menu Contexte,Kontextmenu
+Backspace,Retour,Rücktaste
+Page Down,Page Suivante,Seite nach unten
+Page Up,Page Précédente,Seite nach oben
+Home,Accueil,Start
+End,Fin,End
+Insert,Insertion,Einfügen
+Delete,Suppression,Löschen
+Caps Lock,Verouillage Majuscules,Feststell
+Num Lock,Verouillage Pavé Numérique,Zahlensperre
+Print Screen,Impression d'écran,Bildschirmdruck
+Scroll Lock,Verouillage Défllement,Bildlaufsperre
+Pause/Break,Pause/Interruption,Pause/Unterbrechung
+Numpad Enter,Pavé Numérique Entrée,Nummernblock Eingabe
+Numpad /,Pavé Numérique -,Nummernblock /
+Numpad *,Pavé Numérique *,Nummernblock *
+Numpad +,Pavé Numérique +,Nummernblock +
+Numpad -,Pavé Numérique -,Nummernblock -
+Numpad .,Pavé Numérique .,Nummernblock .
+Numpad =,Pavé Numérique =,Nummernblock =
+Numpad 1,Pavé Numérique 1,Nummernblock 1
+Numpad 2,Pavé Numérique 2,Nummernblock 2
+Numpad 3,Pavé Numérique 3,Nummernblock 3
+Numpad 4,Pavé Numérique 4,Nummernblock 4
+Numpad 5,Pavé Numérique 5,Nummernblock 5
+Numpad 6,Pavé Numérique 6,Nummernblock 6
+Numpad 7,Pavé Numérique 7,Nummernblock 7
+Numpad 8,Pavé Numérique 8,Nummernblock 8
+Numpad 9,Pavé Numérique 9,Nummernblock 9
+Numpad 0,Pavé Numérique 0,Nummernblock 0
+#Mouse
+Left/Right,Gauche/Droite,Linkds/Rechts
+Up/Down,Haut/Bas,Oben/Unten
+Wheel,Molette,Rad
+Forward,Avant,Vorwärts
+Back,Arrière,Rückwärts
