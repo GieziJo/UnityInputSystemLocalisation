@@ -5,9 +5,12 @@
         "name": "Jo Giezi",
         "url": "https://github.com/GieziJo/UnityInputSystemLocalisation"
     },
-    "version": "0.0.0",
+    "version": "0.0.1",
     "unity": "2021.3",
     "description": "Localisation for Unity Input keys retrieved when calling `InputControlPath.ToHumanReadableString`.",
-    "keywords": ["Localisation", "Inputs"],
+    "keywords": [
+        "Localisation",
+        "Inputs"
+    ],
     "category": "Localisation"
 }
